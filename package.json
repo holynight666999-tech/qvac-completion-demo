@@ -1,0 +1,14 @@
+{
+  "name": "qvac-completion-demo",
+  "version": "1.0.0",
+  "description": "On-device LLM completion demo built on the QVAC SDK.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@qvac/sdk": "^0.20.0"
+  },
+  "license": "MIT"
+}
